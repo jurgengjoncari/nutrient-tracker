@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Fatigue",
+    "description": "Feeling unusually tired or weak, commonly caused by deficiencies in iron, Vitamin D, or B12."
+  },
+  {
+    "name": "Hair loss",
+    "description": "Can be caused by deficiencies in zinc, iron, or biotin, or by taking excessive Vitamin A."
+  },
+  {
+    "name": "Weak immune system",
+    "description": "A weakened immune system can be a result of a deficiency in Vitamin C, Vitamin D, or zinc."
+  },
+  {
+    "name": "Bone pain or fragility",
+    "description": "Could be caused by a lack of calcium, Vitamin D, or magnesium."
+  },
+  {
+    "name": "Muscle cramps",
+    "description": "Often related to deficiencies in potassium, magnesium, or calcium."
+  },
+  {
+    "name": "Irritability or mood swings",
+    "description": "Can result from low levels of magnesium, Vitamin D, or omega-3 fatty acids."
+  },
+  {
+    "name": "Poor wound healing",
+    "description": "Can indicate deficiencies in Vitamin C, zinc, or protein."
+  },
+  {
+    "name": "Nausea",
+    "description": "Could be a symptom of excessive intake of Vitamin A, iron, or Vitamin D."
+  },
+  {
+    "name": "Constipation",
+    "description": "Often caused by inadequate fiber intake, low magnesium levels, or dehydration."
+  },
+  {
+    "name": "Rash or skin dryness",
+    "description": "Can be related to deficiencies in omega-3 fatty acids, Vitamin A, or biotin."
+  },
+  {
+    "name": "Headaches",
+    "description": "Could be caused by a deficiency in magnesium, dehydration, or excess caffeine consumption."
+  },
+  {
+    "name": "Pale skin",
+    "description": "Can be a sign of iron deficiency, which causes anemia and leads to reduced blood flow."
+  },
+  {
+    "name": "Memory issues or cognitive decline",
+    "description": "Difficulty concentrating or memory problems can be linked to deficiencies in B vitamins, especially B12, or omega-3 fatty acids."
+  },
+  {
+    "name": "Cravings for certain foods",
+    "description": "Intense cravings for certain foods (like chocolate or salty snacks) can be a sign of magnesium, iron, or zinc deficiency."
+  },
+  {
+    "name": "Digestive issues (diarrhea, bloating, constipation)",
+    "description": "A range of digestive issues can arise from deficiencies in magnesium, fiber, or essential fatty acids, or excesses in certain vitamins like Vitamin C or iron."
+  },
+  {
+    "name": "Dark circles under eyes",
+    "description": "Often a sign of iron deficiency, but could also be related to lack of sleep or dehydration."
+  },
+  {
+    "name": "Increased thirst",
+    "description": "Excessive thirst can be linked to low levels of sodium, potassium, or magnesium."
+  },
+  {
+    "name": "Edema (swelling)",
+    "description": "Swelling in the body’s tissues, particularly in the feet and ankles, can be caused by deficiencies in protein, potassium, or magnesium."
+  },
+  {
+    "name": "Joint pain",
+    "description": "Can be caused by deficiencies in Omega-3 fatty acids, Vitamin D, or calcium."
+  },
+  {
+    "name": "Slow or poor circulation",
+    "description": "Could be linked to Vitamin C deficiency (affecting blood vessel health), or low levels of iron, which affect oxygen transport."
+  },
+  {
+    "name": "Acne or skin inflammation",
+    "description": "Nutrient deficiencies in zinc, Vitamin A, or Omega-3 fatty acids can contribute to skin issues like acne or inflammation."
+  },
+  {
+    "name": "High blood pressure (Hypertension)",
+    "description": "This could be a result of excessive intake of sodium or insufficient potassium."
+  },
+  {
+    "name": "Dry or brittle nails",
+    "description": "This can indicate a deficiency in biotin, zinc, or omega-3 fatty acids."
+  },
+  {
+    "name": "Difficulty breathing",
+    "description": "Can occur as a result of deficiencies in iron or Vitamin B12, which are necessary for proper oxygen transport in the blood."
+  },
+  {
+    "name": "Swollen or inflamed tongue",
+    "description": "Can be a symptom of deficiencies in B vitamins, particularly B12, or iron."
+  },
+  {
+    "name": "Bleeding gums",
+    "description": "This could be a sign of Vitamin C deficiency (scurvy) or Vitamin K deficiency, which is essential for proper blood clotting."
+  },
+  {
+    "name": "Shortness of breath",
+    "description": "A deficiency in iron or Vitamin B12 can lead to anemia, resulting in shortness of breath."
+  },
+  {
+    "name": "Weakness or muscle fatigue",
+    "description": "Often linked to deficiencies in potassium, magnesium, or calcium, which are involved in muscle function."
+  },
+  {
+    "name": "Restless Leg Syndrome",
+    "description": "A condition that causes discomfort and an urge to move the legs, potentially due to deficiencies in iron or magnesium."
+  },
+  {
+    "name": "Lack of appetite",
+    "description": "This can be a result of deficiencies in zinc or B vitamins (like B12), or an excess of Vitamin A."
+  },
+  {
+    "name": "Irregular heartbeat (arrhythmia)",
+    "description": "Can occur from potassium, magnesium, or calcium deficiencies, which are essential for normal heart function."
+  },
+  {
+    "name": "Low body temperature",
+    "description": "Often caused by thyroid issues related to iodine deficiency or a lack of selenium."
+  },
+  {
+    "name": "Slow metabolism",
+    "description": "Can be a symptom of iodine deficiency, as iodine is crucial for thyroid function and regulating metabolism."
+  }
+]

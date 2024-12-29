@@ -6,7 +6,7 @@ const {Category} = app.models;
 
 async function _0000() {
   try {
-    const categories = require('../../../data/Category.json');
+    const categories = require('../../../data/Categories.json');
 
     await Category.create(categories);
     console.log('Categories added successfully!');

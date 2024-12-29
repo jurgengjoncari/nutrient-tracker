@@ -16,5 +16,9 @@
   "Category": {
     "dataSource": "mongoDb",
     "public": true
+  },
+  "Symptom": {
+    "dataSource": "mongoDb",
+    "public": true
   }
 }
