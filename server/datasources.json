@@ -1,1 +1,13 @@
-{}
+{
+  "mongoDb": {
+    "host": "",
+    "port": 0,
+    "url": "",
+    "database": "nutrientTracker",
+    "password": "",
+    "name": "mongoDb",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
