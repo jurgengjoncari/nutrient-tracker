@@ -1,0 +1,11 @@
+[
+  { "name": "Fruit" },
+  { "name": "Vegetable" },
+  { "name": "Meat" },
+  { "name": "Fish" },
+  { "name": "Dairy" },
+  { "name": "Grain" },
+  { "name": "Nuts" },
+  { "name": "Oil" },
+  { "name": "Legume" }
+]
