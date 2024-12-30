@@ -20,5 +20,9 @@
   "Symptom": {
     "dataSource": "mongoDb",
     "public": true
+  },
+  "Micronutrient": {
+    "dataSource": "mongoDb",
+    "public": true
   }
 }

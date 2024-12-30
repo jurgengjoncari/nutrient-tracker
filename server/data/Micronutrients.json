@@ -1,0 +1,379 @@
+[
+  {
+    "name": "Vitamin A",
+    "unit": "mcg",
+    "dailyRequirement": {
+      "min": 700,
+      "max": 3000
+    },
+    "effects": [
+      "Supports vision",
+      "Immune function",
+      "Reproduction"
+    ],
+    "deficiencyEffects": [
+      "Night blindness",
+      "Increased risk of infections",
+      "Dry skin"
+    ],
+    "excessEffects": [
+      "Nausea",
+      "Dizziness",
+      "Liver damage"
+    ]
+  },
+  {
+    "name": "Vitamin C",
+    "unit": "mg",
+    "dailyRequirement": {
+      "min": 75,
+      "max": 2000
+    },
+    "effects": [
+      "Boosts immunity",
+      "Supports skin health",
+      "Acts as an antioxidant"
+    ],
+    "deficiencyEffects": [
+      "Scurvy",
+      "Fatigue",
+      "Bleeding gums"
+    ],
+    "excessEffects": [
+      "Stomach cramps",
+      "Diarrhea",
+      "Kidney stones"
+    ]
+  },
+  {
+    "name": "Vitamin D",
+    "unit": "mcg",
+    "dailyRequirement": {
+      "min": 15,
+      "max": 100
+    },
+    "effects": [
+      "Essential for calcium absorption",
+      "Bone health"
+    ],
+    "deficiencyEffects": [
+      "Rickets",
+      "Bone pain",
+      "Muscle weakness"
+    ],
+    "excessEffects": [
+      "Nausea",
+      "Kidney damage",
+      "Heart problems"
+    ]
+  },
+  {
+    "name": "Vitamin E",
+    "unit": "mg",
+    "dailyRequirement": {
+      "min": 15,
+      "max": 1000
+    },
+    "effects": [
+      "Acts as an antioxidant",
+      "Protects cell membranes"
+    ],
+    "deficiencyEffects": [
+      "Nerve damage",
+      "Muscle weakness",
+      "Vision problems"
+    ],
+    "excessEffects": [
+      "Increased risk of bleeding",
+      "Headache",
+      "Nausea"
+    ]
+  },
+  {
+    "name": "Vitamin K",
+    "unit": "mcg",
+    "dailyRequirement": {
+      "min": 90,
+      "max": 500
+    },
+    "effects": [
+      "Important for blood clotting",
+      "Bone metabolism"
+    ],
+    "deficiencyEffects": [
+      "Increased bleeding",
+      "Weak bones",
+      "Bruising"
+    ],
+    "excessEffects": [
+      "Interference with anticoagulants"
+    ]
+  },
+  {
+    "name": "Calcium",
+    "unit": "mg",
+    "dailyRequirement": {
+      "min": 1000,
+      "max": 2500
+    },
+    "effects": [
+      "Crucial for strong bones",
+      "Teeth health",
+      "Muscle function"
+    ],
+    "deficiencyEffects": [
+      "Osteoporosis",
+      "Muscle spasms",
+      "Weak nails"
+    ],
+    "excessEffects": [
+      "Kidney stones",
+      "Abdominal pain",
+      "Heart problems"
+    ]
+  },
+  {
+    "name": "Iron",
+    "unit": "mg",
+    "dailyRequirement": {
+      "min": 8,
+      "max": 45
+    },
+    "effects": [
+      "Necessary for hemoglobin production",
+      "Oxygen transport"
+    ],
+    "deficiencyEffects": [
+      "Anemia",
+      "Fatigue",
+      "Weakened immune function"
+    ],
+    "excessEffects": [
+      "Constipation",
+      "Nausea",
+      "Organ damage"
+    ]
+  },
+  {
+    "name": "Magnesium",
+    "unit": "mg",
+    "dailyRequirement": {
+      "min": 400,
+      "max": 420
+    },
+    "effects": [
+      "Supports muscle and nerve function",
+      "Energy production"
+    ],
+    "deficiencyEffects": [
+      "Weakness",
+      "Muscle cramps",
+      "Abnormal heart rhythms"
+    ],
+    "excessEffects": [
+      "Diarrhea",
+      "Nausea",
+      "Low blood pressure"
+    ]
+  },
+  {
+    "name": "Zinc",
+    "unit": "mg",
+    "dailyRequirement": {
+      "min": 11,
+      "max": 40
+    },
+    "effects": [
+      "Supports immunity",
+      "Wound healing",
+      "Cell growth"
+    ],
+    "deficiencyEffects": [
+      "Delayed healing",
+      "Hair loss",
+      "Loss of appetite"
+    ],
+    "excessEffects": [
+      "Nausea",
+      "Vomiting",
+      "Reduced immune function"
+    ]
+  },
+  {
+    "name": "Selenium",
+    "unit": "mcg",
+    "dailyRequirement": {
+      "min": 55,
+      "max": 400
+    },
+    "effects": [
+      "Acts as an antioxidant",
+      "Supports thyroid function"
+    ],
+    "deficiencyEffects": [
+      "Heart problems",
+      "Fatigue",
+      "Weak immune function"
+    ],
+    "excessEffects": [
+      "Hair loss",
+      "Nail brittleness",
+      "Fatigue"
+    ]
+  },
+  {
+    "name": "Potassium",
+    "unit": "mg",
+    "dailyRequirement": {
+      "min": 4700,
+      "max": 6000
+    },
+    "effects": [
+      "Essential for nerve function",
+      "Muscle contraction",
+      "Fluid balance"
+    ],
+    "deficiencyEffects": [
+      "Weakness",
+      "Fatigue",
+      "Irregular heartbeat"
+    ],
+    "excessEffects": [
+      "Irregular heartbeat",
+      "Muscle weakness",
+      "Nausea"
+    ]
+  },
+  {
+    "name": "Sodium",
+    "unit": "mg",
+    "dailyRequirement": {
+      "min": 1500,
+      "max": 2300
+    },
+    "effects": [
+      "Helps maintain fluid balance",
+      "Nerve function"
+    ],
+    "deficiencyEffects": [
+      "Dizziness",
+      "Fatigue",
+      "Low blood pressure"
+    ],
+    "excessEffects": [
+      "High blood pressure",
+      "Swelling",
+      "Kidney damage"
+    ]
+  },
+  {
+    "name": "Iodine",
+    "unit": "mcg",
+    "dailyRequirement": {
+      "min": 150,
+      "max": 1100
+    },
+    "effects": [
+      "Critical for thyroid hormone production",
+      "Metabolism"
+    ],
+    "deficiencyEffects": [
+      "Goiter",
+      "Hypothyroidism",
+      "Developmental delays"
+    ],
+    "excessEffects": [
+      "Thyroid dysfunction",
+      "Stomach pain",
+      "Metallic taste"
+    ]
+  },
+  {
+    "name": "Copper",
+    "unit": "mg",
+    "dailyRequirement": {
+      "min": 0.9,
+      "max": 10
+    },
+    "effects": [
+      "Supports iron metabolism",
+      "Nervous system health"
+    ],
+    "deficiencyEffects": [
+      "Anemia",
+      "Bone abnormalities",
+      "Fatigue"
+    ],
+    "excessEffects": [
+      "Nausea",
+      "Diarrhea",
+      "Liver damage"
+    ]
+  },
+  {
+    "name": "Manganese",
+    "unit": "mg",
+    "dailyRequirement": {
+      "min": 2,
+      "max": 11
+    },
+    "effects": [
+      "Involved in metabolism",
+      "Bone formation",
+      "Antioxidant activity"
+    ],
+    "deficiencyEffects": [
+      "Impaired growth",
+      "Bone abnormalities",
+      "Poor wound healing"
+    ],
+    "excessEffects": [
+      "Neurological problems",
+      "Muscle spasms",
+      "Memory issues"
+    ]
+  },
+  {
+    "name": "Fluoride",
+    "unit": "mg",
+    "dailyRequirement": {
+      "min": 3,
+      "max": 10
+    },
+    "effects": [
+      "Supports dental health",
+      "Bone strength"
+    ],
+    "deficiencyEffects": [
+      "Tooth decay",
+      "Weakened bones"
+    ],
+    "excessEffects": [
+      "Dental fluorosis",
+      "Bone fragility",
+      "Joint pain"
+    ]
+  },
+  {
+    "name": "Phosphorus",
+    "unit": "mg",
+    "dailyRequirement": {
+      "min": 700,
+      "max": 4000
+    },
+    "effects": [
+      "Essential for energy production",
+      "Bone health"
+    ],
+    "deficiencyEffects": [
+      "Weak bones",
+      "Fatigue",
+      "Muscle weakness"
+    ],
+    "excessEffects": [
+      "Mineral imbalances",
+      "Kidney damage",
+      "Heart problems"
+    ]
+  }
+]
